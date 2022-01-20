@@ -168,7 +168,7 @@ I use a python 3 enviroment and for me the config is working but I get feedback 
 Error loading template 'gcode_macro PRINT_START:gcode': UnicodeDecodeError: 'ascii' codec can't decode byte 0xc2 in position 2539: ordinal not in range(128)
 Traceback (most recent call last): File "/home/pi/klipper/klippy/extras/gcode_macro.py", line 51, in __init__
 ```
-We traced it down to the degree symbol (°) but I am not sure why that this seams to be a problem. So if you run in the same issue remove the degree symbol in the various output messages at the following macros
+We traced it down to the degree symbol () but I am not sure why that this seams to be a problem. So if you run in the same issue remove the degree symbol in the various output messages at the following macros
 - PRINT_START
 - PRINT_END
 - FILAMENT_LOAD

@@ -8,3 +8,7 @@ printer-*.cfg
 *.jpg
 /logs
 *.txt
+
+test_probe_accuracy.cfg
+
+timelapse.cfg
