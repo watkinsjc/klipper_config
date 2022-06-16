@@ -1,6 +1,6 @@
 # Adaptation for use on MercuryOne printers by ZeroG
 
-***The contents of this fork are in no way endorsed by ZeroG, any of its developers or the community.***
+***The contents of this fork are in no way endorsed by ZeroG, any of its developers, or the community.***
 
 This config is a work-in-progress. It is still being tested and should be considered non-functional at this time. 
 
