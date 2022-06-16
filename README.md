@@ -1,4 +1,16 @@
-# klipper_config of a Voron V2.4
+# Adaptation for use on MercuryOne printers by ZeroG
+
+***The contents of this fork are in no way endorsed by ZeroG, any of its developers or the community.***
+
+This config is a work-in-progress. It is still being tested and should be considered non-functional at this time. 
+
+Goals of this fork include adapting configuration files to tailor them to MercuryOne printer charachteristics including, but not limited to: Z-axis kinematics (stock Ender 5, Ender 5+ and Hydra), and Z_Tilt_Adjust routines vice Quad_Gantry_Level while preserving the modulatity and configurability of the original code.   
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+## klipper_config of a Voron V2.4
 
 This is the config of my Voron 2.4 350mm3 Serial:V2.660
 
